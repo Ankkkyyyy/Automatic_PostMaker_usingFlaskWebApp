@@ -11,7 +11,7 @@ Install the Requirements
 import requests
 from bs4 import BeautifulSoup
 
-# url = "https://codewithharry.com"
+
 url = "https://timesofindia.indiatimes.com/"
 
 # Step1 Get the HTML
